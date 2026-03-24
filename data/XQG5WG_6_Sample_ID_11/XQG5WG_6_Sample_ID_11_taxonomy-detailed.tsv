@@ -1,0 +1,18 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+303541	0.4293002779551246	Lactobacillus apis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	2122.460574210136	0.9996632009033454	0.993876589731512
+1218494	0.2979978900698576	Lactobacillus helsingborgensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1473.301568505376	0.9987839969005413	0.24455040871934605
+1218493	0.0152180132047885	Lactobacillus kullabergensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	75.23785728447473	0.9203508207455748	0.025
+72826	0.0128828433801273	Bartonella_sp.	Bartonella	Rhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	PR2	63.6927776713498	0.9921093532012908	0.125
+1686310	0.0332336614742415	Bartonella apis	Bartonella	Bartonellaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	164.3072223286502	0.998794030082517	0.9451219512195121
+2478912	0.0230582524271844	Commensalibacter sp. AMU001	Commensalibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	114.0	1.0	1.0
+1196095	0.0548139158576051	Gilliamella apicola	Gilliamella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	271.0	1.0	1.0
+1196083	0.0368122977346278	Snodgrassella alvi	Snodgrassella	Neisseriaceae	Neisseriales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	182.0	1.0	1.0
+148814	0.0311488673139158	Lactobacillus kunkeei	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	154.0	1.0	1.0
+1218508	0.0198220064724919	Lactobacillus mellis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	98.0	1.0	1.0
+1510841	0.0182038834951456	Parasaccharibacter apium	Parasaccharibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	90.0	1.0	1.0
+10003474	0.0026294498381877	Serratia marcescens	Serratia	Yersiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	13.0	1.0	1.0
+1218492	0.0131472491909385	Lactobacillus mellifer	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	65.0	1.0	1.0
+1267021	0.0058656957928802	Frischella perrara	Frischella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	29.0	1.0	1.0
+549	0.0058656957928802	Pantoea agglomerans	Pantoea	Erwiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	29.0	1.0	1.0
+unmapped	0.0									0.0	0.0	0.0
+mapped_unclassified	0.0									17.0	0.0	0.0

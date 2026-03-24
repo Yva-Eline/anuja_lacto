@@ -1,0 +1,20 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+1544694	0.0037037037037037	Rosenbergiella epipactidis	Rosenbergiella	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	3.0	1.0	1.0
+1196095	0.7185185185185186	Gilliamella apicola	Gilliamella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	582.0	1.0	1.0
+1196083	0.0061728395061728	Snodgrassella alvi	Snodgrassella	Neisseriaceae	Neisseriales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	5.0	1.0	1.0
+303541	0.1084042105696428	Lactobacillus apis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	87.80741056141072	0.9978114836523947	0.9545454545454546
+10003450	0.0294961384744612	Salmonella enterica	Salmonella	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	23.89187216431363	0.9954829003503166	0.08333333333333333
+10003443	0.0024756470970443	Escherichia coli	Escherichia	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	2.005274148605955	1.0	1.0
+1387353	0.0012345679012345	Paludisphaera borealis	Paludisphaera	Isosphaeraceae	Isosphaerales	Planctomycetia	Planctomycetes	Bacteria	EMU	1.0	1.0	1.0
+549	0.0493827160493827	Pantoea agglomerans	Pantoea	Erwiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	40.0	1.0	1.0
+1267021	0.0481481481481481	Frischella perrara	Frischella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	39.0	1.0	1.0
+2066049	0.0025961156630622	Citrobacter freundii complex sp. CFNIH2	Citrobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	2.102853687080418	0.9972436926404296	0.0
+1776391	0.0012345679012345	Romboutsia timonensis	Romboutsia	Peptostreptococcaceae	Clostridiales	Clostridia	Firmicutes	Bacteria	EMU	1.0	1.0	1.0
+1218508	0.0074074074074074	Lactobacillus mellis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	6.0	1.0	1.0
+1218494	0.0162871474550484	Lactobacillus helsingborgensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	13.192589438589277	1.0	1.0
+296	0.0012345679012345	Pseudomonas fragi	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0	1.0
+70863	0.0012345679012345	Shewanella oneidensis	Shewanella	Shewanellaceae	Alteromonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0	1.0
+10002671	0.0012345679012345	Lactobacillus johnsonii	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0	1.0
+10002616	0.0012345679012345	Laceyella sacchari	Laceyella	Thermoactinomycetaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0	1.0
+unmapped	0.0									0.0	0.0	0.0
+mapped_unclassified	0.0									0.0	0.0	0.0

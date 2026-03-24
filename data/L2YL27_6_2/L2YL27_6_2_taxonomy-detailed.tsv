@@ -1,0 +1,10 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+303541	0.6722363077492493	Lactobacillus apis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	3326.8974870510347	0.999668683239208	0.9705528846153846
+126385	0.0274802990503131	Providencia alcalifaciens	Providencia	Morganellaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	136.0	1.0	1.0
+1196095	0.2071125479894928	Gilliamella apicola	Gilliamella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1025.0	1.0	1.0
+1218494	0.0418473455140363	Lactobacillus helsingborgensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	207.10251294896605	0.999999469752673	0.9951456310679612
+1218508	0.0260658718933117	Lactobacillus mellis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	129.0	1.0	1.0
+1267021	0.0145483936148716	Frischella perrara	Frischella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	72.0	1.0	1.0
+1196083	0.0107092341887249	Snodgrassella alvi	Snodgrassella	Neisseriaceae	Neisseriales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	53.0	1.0	1.0
+unmapped	0.0									0.0	0.0	0.0
+mapped_unclassified	0.0									27.0	0.0	0.0

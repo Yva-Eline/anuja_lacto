@@ -1,0 +1,45 @@
+Sample,Sample_label,Treatment,N_Lacto_Species,Total_Lacto_Abundance
+Day  0   For baseline data Rep  3,Day 0  NEWs Rep  3,For baseline data,7,0.829243142916065
+Day  11   ASx-lysate-treated Rep  1,Day 11  ASx lysate Rep  1,ASx-lysate-treated,7,0.6566167543504647
+Day  11   ASx-lysate-treated Rep  2,Day 11  ASx lysate Rep  2,ASx-lysate-treated,7,0.824639740207023
+Day  11   ASx-lysate-treated Rep  3,Day 11  ASx lysate Rep  3,ASx-lysate-treated,7,0.6816441668345762
+Day  11   Terra-Pro-treated Rep  3,Day 11  Terra-Pro Rep  3,Terra-Pro-treated,7,0.46510673234811184
+Day  17   ASx-lysate-treated Rep  2,Day 17  ASx lysate Rep  2,ASx-lysate-treated,7,0.7311028500619579
+Day  17   Terra-Pro-treated Rep  3,Day 17  Terra-Pro Rep  3,Terra-Pro-treated,7,0.8650875386199801
+Day  17   Tetracycline-treated Rep  2,Day 17  Tetracycline Rep  2,Tetracycline-treated,7,0.7672891442643137
+Day  5   ASx-lysate-treated Rep  1,Day 5  ASx lysate Rep  1,ASx-lysate-treated,7,0.505358948432761
+Day  5   ASx-lysate-treated Rep  3,Day 5  ASx lysate Rep  3,ASx-lysate-treated,7,0.623636363636364
+Day  5   Control Rep  1,Day 5  Control Rep  1,Control,7,0.6085702513391021
+Day  5   Control Rep  3,Day 5  Control Rep  3,Control,7,0.5312563220716168
+Day  11   Control Rep  1,Day 11  Control Rep  1,Control,6,0.4853446533252483
+Day  11   Control Rep  2,Day 11  Control Rep  2,Control,6,0.490116982654296
+Day  11   Control Rep  3,Day 11  Control Rep  3,Control,6,0.6745983323164529
+Day  11   Terra-Pro-treated Rep  1,Day 11  Terra-Pro Rep  1,Terra-Pro-treated,6,0.6337688442211062
+Day  11   Terra-Pro-treated Rep  2,Day 11  Terra-Pro Rep  2,Terra-Pro-treated,6,0.6715253541367272
+Day  11   Tetracycline-treated Rep  1,Day 11  Tetracycline Rep  1,Tetracycline-treated,6,0.6446782679077298
+Day  11   Tetracycline-treated Rep  2,Day 11  Tetracycline Rep  2,Tetracycline-treated,6,0.7984829848298487
+Day  11   Tetracycline-treated Rep  3,Day 11  Tetracycline Rep  3,Tetracycline-treated,6,0.4415453074433658
+Day  17   ASx-lysate-treated Rep  3,Day 17  ASx lysate Rep  3,ASx-lysate-treated,6,0.6611977030352744
+Day  17   Control Rep  1,Day 17  Control Rep  1,Control,6,0.5241157556270097
+Day  17   Control Rep  3,Day 17  Control Rep  3,Control,6,0.45428859737638794
+Day  17   Terra-Pro-treated Rep  1,Day 17  Terra-Pro Rep  1,Terra-Pro-treated,6,0.4653767820773927
+Day  17   Terra-Pro-treated Rep  2,Day 17  Terra-Pro Rep  2,Terra-Pro-treated,6,0.7621788283658796
+Day  17   Tetracycline-treated Rep  1,Day 17  Tetracycline Rep  1,Tetracycline-treated,6,0.7931658291457288
+Day  17   Tetracycline-treated Rep  3,Day 17  Tetracycline Rep  3,Tetracycline-treated,6,0.6025798525798526
+Day  5   Terra-Pro-treated Rep  2,Day 5  Terra-Pro Rep  2,Terra-Pro-treated,6,0.8066343042071196
+Day  5   Terra-Pro-treated Rep  3,Day 5  Terra-Pro Rep  3,Terra-Pro-treated,6,0.5887096774193552
+Day  5   Tetracycline-treated Rep  1,Day 5  Tetracycline Rep  1,Tetracycline-treated,6,0.6955199675653762
+Day  5   Tetracycline-treated Rep  2,Day 5  Tetracycline Rep  2,Tetracycline-treated,6,0.48739156748033086
+Day  5   Tetracycline-treated Rep  3,Day 5  Tetracycline Rep  3,Tetracycline-treated,6,0.7690875232774678
+Day  NA   Microbiome in the comb samples Rep  1,Day 17  Comb Rep  1,Microbiome in the comb samples,6,0.2942131979695433
+Day  15   Apiary-Marked Rep  1,Day 15  Hive Reared Rep  1,Apiary-Marked,5,0.8213921208409882
+Day  15   Apiary-Marked Rep  2,Day 15  Hive Reared Rep  2,Apiary-Marked,5,0.9053750255467001
+Day  15   Apiary-Marked Rep  3,Day 15  Hive Reared Rep  3,Apiary-Marked,5,0.8466927673603959
+Day  17   ASx-lysate-treated Rep  1,Day 17  ASx lysate Rep  1,ASx-lysate-treated,5,0.2802061855670106
+Day  5   ASx-lysate-treated Rep  2,Day 5  ASx lysate Rep  2,ASx-lysate-treated,5,0.37687019813991124
+Day  5   Terra-Pro-treated Rep  1,Day 5  Terra-Pro Rep  1,Terra-Pro-treated,5,0.32921644057500893
+Day  NA   Microbiome in the comb samples Rep  2,Day 17  Comb Rep  2,Microbiome in the comb samples,5,0.2902363823227136
+Day  NA   Microbiome in the comb samples Rep  3,Day 17  Comb Rep  3,Microbiome in the comb samples,5,0.3106167846309399
+Day  0   For baseline data Rep  1,Day 0  NEWs Rep  1,For baseline data,4,0.13333333333333322
+Day  5   Control Rep  2,Day 5  Control Rep  2,Control,4,0.15985549785504619
+Day  0   For baseline data Rep  2,Day 0  NEWs Rep  2,For baseline data,3,0.7401495251565975

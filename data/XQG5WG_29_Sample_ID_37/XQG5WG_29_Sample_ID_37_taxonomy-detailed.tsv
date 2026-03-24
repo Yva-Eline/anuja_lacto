@@ -1,0 +1,14 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+303541	0.405895840861185	Lactobacillus apis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1965.347661449858	0.938953122881679	0.7493881546744983
+1505723	0.0777043135659977	Lactobacillus bombicola	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	376.244286286561	0.8445521497125893	0.0
+1218494	0.0136686500630738	Lactobacillus helsingborgensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	66.18360360540375	0.9169768505168822	0.15789473684210525
+1218493	0.1578323933618704	Lactobacillus kullabergensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	764.2244486581765	0.9880444667877644	0.005194805194805195
+1196083	0.0320115654688145	Snodgrassella alvi	Snodgrassella	Neisseriaceae	Neisseriales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	155.0	1.0	1.0
+1218492	0.0264353572903758	Lactobacillus mellifer	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	128.0	1.0	1.0
+2478912	0.0458488228004956	Commensalibacter sp. AMU001	Commensalibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	222.0	1.0	1.0
+1196095	0.1765799256505576	Gilliamella apicola	Gilliamella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	855.0000000000001	1.0	1.0
+1218508	0.0406856670797191	Lactobacillus mellis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	197.0	1.0	1.0
+1510841	0.0144568360181743	Parasaccharibacter apium	Parasaccharibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	70.0	1.0	1.0
+148814	0.0088806278397356	Lactobacillus kunkeei	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	43.0	1.0	1.0
+unmapped	0.0									0.0	0.0	0.0
+mapped_unclassified	0.0									20.0	0.0	0.0

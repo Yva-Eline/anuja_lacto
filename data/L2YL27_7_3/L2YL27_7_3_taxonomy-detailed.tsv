@@ -1,0 +1,13 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+1218507	0.0045306361299259	Lactobacillus melliventris	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	21.969054594010725	0.838942495735791	0.05
+1218494	0.3625505313500983	Lactobacillus helsingborgensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1758.0075265166265	0.9960829737468248	0.24857792946530147
+1218493	0.0449280799146733	Lactobacillus kullabergensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	217.85625950625104	0.9833590270993894	0.2409090909090909
+1196095	0.1433285213446071	Gilliamella apicola	Gilliamella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	695.0	1.0	1.0
+303541	0.2192549307863695	Lactobacillus apis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1063.167159383106	0.9999879936999522	0.9952963311382879
+1218508	0.1847043420900966	Lactobacillus mellis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	895.6313547948787	0.999588565619284	0.9698660714285714
+1218492	0.0105176325015504	Lactobacillus mellifer	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	51.000000000018055	1.0	1.0
+1267021	0.0233037739740152	Frischella perrara	Frischella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	113.0	1.0	1.0
+1196083	0.0041245617653124	Snodgrassella alvi	Snodgrassella	Neisseriaceae	Neisseriales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	20.0	1.0	1.0
+1303590	0.0027569901433498	Lactobacillus bombi	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	13.368645205103311	0.9999999999985985	0.9230769230769231
+unmapped	0.0									0.0	0.0	0.0
+mapped_unclassified	0.0									18.0	0.0	0.0

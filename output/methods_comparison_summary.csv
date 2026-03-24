@@ -1,0 +1,4 @@
+Comparison,DESeq2_Significant,ANCOMBC2_Significant,ANCOMBC2_Borderline
+Control_vs_Tetracycline,9,0,1
+Control_vs_Terra-Pro,4,0,0
+Control_vs_ASx_lysate,1,0,0

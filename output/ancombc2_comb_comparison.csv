@@ -1,0 +1,6 @@
+taxon,species,genus,lfc,q_val,Comparison
+1218493,Lactobacillus kullabergensis,Lactobacillus,2.6897408289634925,1.333309459958562e-5,Comb vs Hive-Reared
+303541,Lactobacillus apis,Lactobacillus,1.5416797633904444,7.030098311198504e-5,Comb vs Hive-Reared
+1218508,Bombilactobacillus mellis,Bombilactobacillus,2.031398231862961,1.320872898338442e-4,Comb vs Hive-Reared
+2478912,Commensalibacter sp. AMU001,Commensalibacter,-2.2753213827875705,0.0023690776919303817,Comb vs Hive-Reared
+303541,Lactobacillus apis,Lactobacillus,2.6919307320053125,1.6877243263390762e-5,Comb vs Control

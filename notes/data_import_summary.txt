@@ -1,0 +1,100 @@
+16S Microbiome Analysis - Data Import & Sequencing Summary
+Date: 2025-12-22
+
+Dataset Overview
+
+Total Samples: 44
+Total Unique Taxa: 55
+Total Observations: 691
+
+Sequencing Statistics
+
+Mean Reads per Sample: 4824 ± 625
+Range: 810 - 4984 reads
+Mean Read Length: 1443.6 bp
+Mean Quality Score: 20.79
+Mean N50: 1476 bp
+
+Experimental Design
+
+Treatments:
+ -  For baseline data
+ -  Control
+ -  Tetracycline-treated
+ -  Terra-Pro-treated
+ -  ASx-lysate-treated
+ -  Apiary-Marked
+ -  Microbiome in the comb samples
+ -  NA
+ -  for practice for DNA extraction
+
+Time Points (days): 0, 5, 11, 15, 17
+
+Samples per Treatment
+ Day 0 - For baseline data: 3 replicates
+ Day 11 - ASx-lysate-treated: 3 replicates
+ Day 11 - Control: 3 replicates
+ Day 11 - Terra-Pro-treated: 3 replicates
+ Day 11 - Tetracycline-treated: 3 replicates
+ Day 15 - Apiary-Marked: 3 replicates
+ Day 17 - ASx-lysate-treated: 3 replicates
+ Day 17 - Control: 3 replicates
+ Day 17 - Terra-Pro-treated: 3 replicates
+ Day 17 - Tetracycline-treated: 3 replicates
+ Day 5 - ASx-lysate-treated: 3 replicates
+ Day 5 - Control: 3 replicates
+ Day 5 - Terra-Pro-treated: 3 replicates
+ Day 5 - Tetracycline-treated: 3 replicates
+ Day NA - Microbiome in the comb samples: 3 replicates
+ Day NA - for practice for DNA extraction: 3 replicates
+ Day NA - NA: 2 replicates
+
+
+ Sequencing Stats by Treatment
+
+  ASx-lysate-treated:
+    N = 9
+    Mean Reads = 4936 ± 47
+    Mean Quality = 20.66
+
+  Microbiome in the comb samples:
+    N = 3
+    Mean Reads = 4934 ± 51
+    Mean Quality = 19.06
+
+  Terra-Pro-treated:
+    N = 9
+    Mean Reads = 4921 ± 47
+    Mean Quality = 20.79
+
+  Tetracycline-treated:
+    N = 9
+    Mean Reads = 4921 ± 45
+    Mean Quality = 21.6
+
+  Apiary-Marked:
+    N = 3
+    Mean Reads = 4896 ± 19
+    Mean Quality = 19.2
+
+  Control:
+    N = 8
+    Mean Reads = 4890 ± 178
+    Mean Quality = 20.8
+
+  For baseline data:
+    N = 3
+    Mean Reads = 3551 ± 2374
+    Mean Quality = 22
+
+Output Files
+Sample Information:
+ - output/sample_name_lookup.csv (sample ID crosswalk)
+ - output/metadata_clean.csv (cleaned metadata)
+
+Sequencing Statistics:
+ - output/sequencing_stats_all_samples.csv (all samples)
+ - output/sequencing_stats_by_treatment.csv (by treatment)
+
+Summary:
+ - notes/data_import_summary.txt (ths file)

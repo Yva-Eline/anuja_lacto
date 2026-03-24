@@ -1,0 +1,19 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+148814	0.002870028700287	Lactobacillus kunkeei	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	14.0	1.0	1.0
+303541	0.3411248149375763	Lactobacillus apis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1664.006847265497	0.9999999999709779	0.9969951923076923
+1218508	0.1053710537105371	Lactobacillus mellis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	514.0	1.0	1.0
+1196095	0.046330463304633	Gilliamella apicola	Gilliamella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	226.0	1.0	1.0
+1218494	0.2200946216098842	Lactobacillus helsingborgensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1073.6215642130155	0.9964523921522188	0.33054003724394787
+1218493	0.0974521501684071	Lactobacillus kullabergensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	475.3715885214902	0.9927753789615977	0.01263157894736842
+72745	0.0048018903003559	Commensalibacter_sp.	Commensalibacter	Acetobacteraceae	Acetobacterales	Alphaproteobacteria	Proteobacteria	Bacteria	PR2	23.423620885136323	0.6134727564720723	0.0
+2478912	0.0316884746032931	Commensalibacter sp. AMU001	Commensalibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	154.57637911486376	0.8823337739723935	0.0
+72826	0.009831381633383	Bartonella_sp.	Bartonella	Rhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	PR2	47.95747960764253	0.9991126610874844	0.125
+10003474	0.039770397703977	Serratia marcescens	Serratia	Yersiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	194.0	1.0	1.0
+1218492	0.031570315703157	Lactobacillus mellifer	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	154.0	1.0	1.0
+1686310	0.037319089871332	Bartonella apis	Bartonella	Bartonellaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	182.0425203923575	0.9999996050799818	0.9120879120879121
+1510841	0.0145675875405957	Parasaccharibacter apium	Parasaccharibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	71.06069202302629	0.9921752959989029	0.0
+1785988	0.0028575867111467	Bombella apis	Bombella	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	13.93930797697373	0.6399298533763578	0.0
+1196083	0.01230012300123	Snodgrassella alvi	Snodgrassella	Neisseriaceae	Neisseriales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	60.0	1.0	1.0
+1267021	0.002050020500205	Frischella perrara	Frischella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	10.0	1.0	1.0
+unmapped	0.0									0.0	0.0	0.0
+mapped_unclassified	0.0									1.0	0.0	0.0

@@ -1,0 +1,16 @@
+Method,Comparison,species,genus,lfc,q_val
+DESeq2,Control_vs_ASx_lysate,Lelliottia sp. WB101,Lelliottia,24.74016583008623,1.5780074185415968e-7
+DESeq2,Control_vs_Terra-Pro,Commensalibacter_sp.,Commensalibacter,-8.089872016275628,0.003771798493472241
+DESeq2,Control_vs_Terra-Pro,Lelliottia sp. WB101,Lelliottia,24.262062824955734,3.1199642776911306e-7
+DESeq2,Control_vs_Terra-Pro,Lonsdalea quercina,Lonsdalea,22.445497692553154,1.865655027707325e-6
+DESeq2,Control_vs_Terra-Pro,Tatumella ptyseos,Tatumella,8.019485490367169,0.0010556846397144926
+DESeq2,Control_vs_Tetracycline,Commensalibacter_sp.,Commensalibacter,-7.240463552198344,0.008321682575489906
+DESeq2,Control_vs_Tetracycline,Fructobacillus fructosus,Fructobacillus,7.29186736495028,1.0835329298955545e-4
+DESeq2,Control_vs_Tetracycline,Lactobacillus apis,Lactobacillus,-1.1301922453725586,0.01289689720522895
+DESeq2,Control_vs_Tetracycline,Lactobacillus bombicola,Lactobacillus,22.919029577018556,1.2210884831236286e-12
+ANCOM-BC2,Control_vs_Tetracycline,Lactobacillus kullabergensis,Lactobacillus,1.660036286929991,0.057873081961741055
+DESeq2,Control_vs_Tetracycline,Lactobacillus kullabergensis,Lactobacillus,-2.0377179662612424,0.01289689720522895
+DESeq2,Control_vs_Tetracycline,Lelliottia sp. WB101,Lelliottia,24.274359326917974,1.3031463900181937e-7
+DESeq2,Control_vs_Tetracycline,Lonsdalea quercina,Lonsdalea,22.43524183334863,1.0715228941278351e-6
+DESeq2,Control_vs_Tetracycline,Pantoea agglomerans,Pantoea,6.244052208139589,0.01803307792469677
+DESeq2,Control_vs_Tetracycline,Tatumella ptyseos,Tatumella,8.070477797296636,4.846964727334244e-4

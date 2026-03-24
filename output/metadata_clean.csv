@@ -1,0 +1,51 @@
+Date of sample collection,Tube Name,Treatments,SAMPLE Tube ID,Total bee guts extracted,DNA extracted Date,Final Elution volume,DNA concentration (ng/uL) Qubit,Amount to send to Plasmidsarus (in uL),DNA needed,Add water,Total volume needed,...13,Sent for Sequencing on 13 Nov 2025,Sent on 18 Nov,Day,Cage,Treatment,Rep,NewSampleName
+2025-09-26T00:00:00Z,Day-0 (Rep-1),For baseline data,1,15,2025-10-28T00:00:00Z,40 uL,low,15,NA,NA,NA,NA,SENT,NA,0,1,For baseline data,1,Day  0   For baseline data Rep  1
+2025-09-26T00:00:00Z,Day-0 (Rep-2),For baseline data,2,15,2025-10-28T00:00:00Z,40 uL,7.1,15,NA,NA,NA,NA,SENT,NA,0,2,For baseline data,2,Day  0   For baseline data Rep  2
+2025-09-26T00:00:00Z,Day-0 (Rep-3),For baseline data,3,15,2025-10-28T00:00:00Z,40 uL,8.9700000000000006,15,NA,NA,NA,NA,SENT,NA,0,3,For baseline data,3,Day  0   For baseline data Rep  3
+2025-10-01T00:00:00Z,Day-5 (Cage-1),Control,4,15,2025-10-28T00:00:00Z,40 uL,5.35,15,NA,NA,NA,NA,SENT,NA,5,1,Control,1,Day  5   Control Rep  1
+2025-10-01T00:00:00Z,Day-5 (Cage-2),Control,5,15,2025-10-28T00:00:00Z,40 uL,9.4499999999999993,15,NA,NA,NA,NA,NA,SENT,5,2,Control,2,Day  5   Control Rep  2
+2025-10-01T00:00:00Z,Day-5 (Cage-3),Control,6,15,2025-10-28T00:00:00Z,40 uL,5.3,15,NA,NA,NA,NA,NA,SENT,5,3,Control,3,Day  5   Control Rep  3
+2025-10-01T00:00:00Z,Day-5 (Cage-4),Tetracycline-treated,7,15,2025-10-28T00:00:00Z,40 uL,2.95,15,NA,NA,NA,NA,NA,SENT,5,4,Tetracycline-treated,1,Day  5   Tetracycline-treated Rep  1
+2025-10-01T00:00:00Z,Day-5 (Cage-5),Tetracycline-treated,8,15,2025-10-28T00:00:00Z,40 uL,6.14,15,NA,NA,NA,NA,NA,SENT,5,5,Tetracycline-treated,2,Day  5   Tetracycline-treated Rep  2
+2025-10-01T00:00:00Z,Day-5 (Cage-6),Tetracycline-treated,9,15,2025-10-28T00:00:00Z,40 uL,15.8,xx,9.493670886075948,5.5063291139240516,15,NA,SENT,NA,5,6,Tetracycline-treated,3,Day  5   Tetracycline-treated Rep  3
+2025-10-01T00:00:00Z,Day-5 (Cage-7),Terra-Pro-treated,10,15,2025-10-28T00:00:00Z,40 uL,9.68,15,NA,NA,NA,NA,NA,SENT,5,7,Terra-Pro-treated,1,Day  5   Terra-Pro-treated Rep  1
+2025-10-01T00:00:00Z,Day-5 (Cage-8),Terra-Pro-treated,11,15,2025-10-28T00:00:00Z,40 uL,5.59,15,NA,NA,NA,NA,NA,SENT,5,8,Terra-Pro-treated,2,Day  5   Terra-Pro-treated Rep  2
+2025-10-01T00:00:00Z,Day-5 (Cage-9),Terra-Pro-treated,12,15,2025-10-28T00:00:00Z,40 uL,8.6300000000000008,15,NA,NA,NA,NA,NA,SENT,5,9,Terra-Pro-treated,3,Day  5   Terra-Pro-treated Rep  3
+2025-10-01T00:00:00Z,Day-5 (Cage-10),ASx-lysate-treated,13,15,2025-10-28T00:00:00Z,40 uL,5.87,15,NA,NA,NA,NA,NA,SENT,5,10,ASx-lysate-treated,1,Day  5   ASx-lysate-treated Rep  1
+2025-10-01T00:00:00Z,Day-5 (Cage-11),ASx-lysate-treated,14,15,2025-10-28T00:00:00Z,40 uL,3.62,15,NA,NA,NA,NA,NA,SENT,5,11,ASx-lysate-treated,2,Day  5   ASx-lysate-treated Rep  2
+2025-10-01T00:00:00Z,Day-5 (Cage-12),ASx-lysate-treated,15,15,2025-10-29T00:00:00Z,40 uL,8.17,15,NA,NA,NA,NA,NA,SENT,5,12,ASx-lysate-treated,3,Day  5   ASx-lysate-treated Rep  3
+2025-10-07T00:00:00Z,Day-11 (Cage-1),Control,16,15,2025-10-29T00:00:00Z,40 uL,5.0199999999999996,15,NA,NA,NA,NA,NA,SENT,11,1,Control,1,Day  11   Control Rep  1
+2025-10-07T00:00:00Z,Day-11 (Cage-2),Control,17,15,2025-10-29T00:00:00Z,40 uL,7.11,15,NA,NA,NA,NA,NA,SENT,11,2,Control,2,Day  11   Control Rep  2
+2025-10-07T00:00:00Z,Day-11 (Cage-3),Control,18,15,2025-10-29T00:00:00Z,40 uL,9.2200000000000006,15,NA,NA,NA,NA,NA,SENT,11,3,Control,3,Day  11   Control Rep  3
+2025-10-07T00:00:00Z,Day-11 (Cage-4),Tetracycline-treated,19,15,2025-10-29T00:00:00Z,40 uL,4.53,15,NA,NA,NA,NA,NA,SENT,11,4,Tetracycline-treated,1,Day  11   Tetracycline-treated Rep  1
+2025-10-07T00:00:00Z,Day-11 (Cage-5),Tetracycline-treated,20,15,2025-10-29T00:00:00Z,40 uL,19,xx,7.894736842105263,7.105263157894737,15,NA,SENT,NA,11,5,Tetracycline-treated,2,Day  11   Tetracycline-treated Rep  2
+2025-10-07T00:00:00Z,Day-11 (Cage-6),Tetracycline-treated,21,15,2025-10-29T00:00:00Z,40 uL,8.36,15,NA,NA,NA,NA,NA,SENT,11,6,Tetracycline-treated,3,Day  11   Tetracycline-treated Rep  3
+2025-10-07T00:00:00Z,Day-11 (Cage-7),Terra-Pro-treated,22,15,2025-10-29T00:00:00Z,40 uL,2.96,15,NA,NA,NA,NA,NA,SENT,11,7,Terra-Pro-treated,1,Day  11   Terra-Pro-treated Rep  1
+2025-10-07T00:00:00Z,Day-11 (Cage-8),Terra-Pro-treated,23,15,2025-10-29T00:00:00Z,40 uL,21.6,xx,6.944444444444444,8.055555555555557,15,NA,SENT,NA,11,8,Terra-Pro-treated,2,Day  11   Terra-Pro-treated Rep  2
+2025-10-07T00:00:00Z,Day-11 (Cage-9),Terra-Pro-treated,24,15,2025-10-29T00:00:00Z,40 uL,25.3,xx,5.928853754940711,9.071146245059289,15,NA,SENT,NA,11,9,Terra-Pro-treated,3,Day  11   Terra-Pro-treated Rep  3
+2025-10-07T00:00:00Z,Day-11 (Cage-10),ASx-lysate-treated,25,15,2025-10-29T00:00:00Z,40 uL,17.2,xx,8.720930232558139,6.279069767441861,15,NA,NA,SENT,11,10,ASx-lysate-treated,1,Day  11   ASx-lysate-treated Rep  1
+2025-10-07T00:00:00Z,Day-11 (Cage-11),ASx-lysate-treated,26,15,2025-10-29T00:00:00Z,40 uL,31.4,xx,4.777070063694268,10.222929936305732,15,NA,NA,SENT,11,11,ASx-lysate-treated,2,Day  11   ASx-lysate-treated Rep  2
+2025-10-07T00:00:00Z,Day-11 (Cage-12),ASx-lysate-treated,27,15,2025-10-29T00:00:00Z,40 uL,16,xx,9.375,5.625,15,NA,NA,SENT,11,12,ASx-lysate-treated,3,Day  11   ASx-lysate-treated Rep  3
+2025-10-13T00:00:00Z,Day-17 (Cage-1),Control,28,15,2025-10-29T00:00:00Z,40 uL,3.9,15,NA,NA,NA,NA,NA,SENT,17,1,Control,1,Day  17   Control Rep  1
+2025-10-13T00:00:00Z,Day-17 (Cage-2),Control,No sample,No sample,NA,No sample,No Sample,No Sample,NA,NA,NA,NA,NA,SENT,17,2,Control,2,Day  17   Control Rep  2
+2025-10-13T00:00:00Z,Day-17 (Cage-3),Control,29,15,2025-10-29T00:00:00Z,40 uL,2,15,NA,NA,NA,NA,NA,SENT,17,3,Control,3,Day  17   Control Rep  3
+2025-10-13T00:00:00Z,Day-17 (Cage-4),Tetracycline-treated,30,15,2025-10-29T00:00:00Z,40 uL,13.1,xx,11.450381679389313,3.549618320610687,15,NA,NA,SENT,17,4,Tetracycline-treated,1,Day  17   Tetracycline-treated Rep  1
+2025-10-13T00:00:00Z,Day-17 (Cage-5),Tetracycline-treated,31,4,2025-10-29T00:00:00Z,40 uL,8.15,15,NA,NA,NA,NA,NA,SENT,17,5,Tetracycline-treated,2,Day  17   Tetracycline-treated Rep  2
+2025-10-13T00:00:00Z,Day-17 (Cage-6),Tetracycline-treated,32,15,2025-10-29T00:00:00Z,40 uL,9.99,15,NA,NA,NA,NA,NA,SENT,17,6,Tetracycline-treated,3,Day  17   Tetracycline-treated Rep  3
+2025-10-13T00:00:00Z,Day-17 (Cage-7),Terra-Pro-treated,33,10,2025-10-29T00:00:00Z,40 uL,14.7,xx,10.204081632653061,4.795918367346939,15,NA,NA,SENT,17,7,Terra-Pro-treated,1,Day  17   Terra-Pro-treated Rep  1
+2025-10-13T00:00:00Z,Day-17 (Cage-8),Terra-Pro-treated,34,15,2025-10-29T00:00:00Z,40 uL,32.299999999999997,xx,4.643962848297214,10.356037151702786,15,NA,NA,SENT,17,8,Terra-Pro-treated,2,Day  17   Terra-Pro-treated Rep  2
+2025-10-13T00:00:00Z,Day-17 (Cage-9),Terra-Pro-treated,35,4,2025-10-29T00:00:00Z,40 uL,8.67,15,NA,NA,NA,NA,NA,SENT,17,9,Terra-Pro-treated,3,Day  17   Terra-Pro-treated Rep  3
+2025-10-13T00:00:00Z,Day-17 (Cage-10),ASx-lysate-treated,36,3,2025-10-29T00:00:00Z,40 uL,20.5,xx,7.317073170731708,7.682926829268292,15,NA,NA,SENT,17,10,ASx-lysate-treated,1,Day  17   ASx-lysate-treated Rep  1
+2025-10-13T00:00:00Z,Day-17 (Cage-11),ASx-lysate-treated,37,1,2025-10-30T00:00:00Z,40 uL,5.41,15,NA,NA,NA,NA,NA,SENT,17,11,ASx-lysate-treated,2,Day  17   ASx-lysate-treated Rep  2
+2025-10-13T00:00:00Z,Day-17 (Cage-12),ASx-lysate-treated,38,15,2025-10-30T00:00:00Z,40 uL,56.4,xx,2.6595744680851063,12.340425531914894,15,NA,NA,SENT,17,12,ASx-lysate-treated,3,Day  17   ASx-lysate-treated Rep  3
+2025-10-11T00:00:00Z,Day-0_Marked bees left at Apiary (Rep-1),For baseline data,39,6,2025-10-30T00:00:00Z,40 uL,13.3,xx,11.278195488721805,3.7218045112781954,15,NA,NA,SENT,15,1,Apiary-Marked,1,Day  15   Apiary-Marked Rep  1
+2025-10-11T00:00:00Z,Day-0_Marked bees left at Apiary (Rep-2),For baseline data,40,6,2025-10-30T00:00:00Z,40 uL,19.3,xx,7.772020725388601,7.227979274611399,15,NA,NA,SENT,15,2,Apiary-Marked,2,Day  15   Apiary-Marked Rep  2
+2025-10-11T00:00:00Z,Day-0_Marked bees left at Apiary (Rep-3),For baseline data,41,6,2025-10-30T00:00:00Z,40 uL,20.6,xx,7.281553398058252,7.718446601941748,15,NA,NA,SENT,15,3,Apiary-Marked,3,Day  15   Apiary-Marked Rep  3
+2025-10-13T00:00:00Z,Comb samples used in the cages (Rep-1),Microbiome in the comb samples,42,Pull from all cages,2025-10-30T00:00:00Z,40 uL,7.01,15,NA,NA,NA,NA,NA,SENT,NA,1,Microbiome in the comb samples,1,Day  NA   Microbiome in the comb samples Rep  1
+2025-10-13T00:00:00Z,Comb samples used in the cages (Rep-2),Microbiome in the comb samples,43,Pull from all cages,2025-10-30T00:00:00Z,40 uL,6.89,15,NA,NA,NA,NA,NA,SENT,NA,2,Microbiome in the comb samples,2,Day  NA   Microbiome in the comb samples Rep  2
+2025-10-13T00:00:00Z,Comb samples used in the cages (Rep-3),Microbiome in the comb samples,44,Pull from all cages,2025-10-30T00:00:00Z,40 uL,15.5,xx,9.67741935483871,5.32258064516129,15,NA,NA,SENT,NA,3,Microbiome in the comb samples,3,Day  NA   Microbiome in the comb samples Rep  3
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,Day  NA   NA Rep  1
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,Day  NA   NA Rep  2
+2025-10-11T00:00:00Z,Bees collected (Apiary Bees),for practice for DNA extraction,Test,15,2025-10-20T00:00:00Z,55 uL,4.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,for practice for DNA extraction,1,Day  NA   for practice for DNA extraction Rep  1
+2025-10-11T00:00:00Z,Bees collected (Apiary Bees),for practice for DNA extraction,Test,15,2025-10-20T00:00:00Z,55 uL,1.26,NA,NA,NA,NA,NA,NA,NA,NA,NA,for practice for DNA extraction,2,Day  NA   for practice for DNA extraction Rep  2
+2025-10-11T00:00:00Z,Bees collected (Apiary Bees),for practice for DNA extraction,Test,15,2025-10-20T00:00:00Z,55 uL,2.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,for practice for DNA extraction,3,Day  NA   for practice for DNA extraction Rep  3

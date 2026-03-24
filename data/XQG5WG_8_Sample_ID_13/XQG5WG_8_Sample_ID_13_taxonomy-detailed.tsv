@@ -1,0 +1,27 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+1218494	0.0430345717216237	Lactobacillus helsingborgensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	212.8059571634292	0.9907408508709379	0.17857142857142858
+1510841	0.014762386248736	Parasaccharibacter apium	Parasaccharibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	73.0	1.0	1.0
+303541	0.3591509761839672	Lactobacillus apis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1776.001577229718	0.986401986389714	0.9111235326998323
+2500132	0.0197470681618184	Enterobacter sp. N18-03635	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	97.64925206019224	0.9802373803649072	0.75
+61645	0.2088655726500377	Enterobacter asburiae	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1032.8402567544367	0.9095840798707021	0.0026431718061674008
+2027919	0.0033385482346275	Enterobacter cloacae complex sp.	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	16.509121020233312	0.9520905401762216	0.625
+338565	0.005643021497084	Erwinia tasmaniensis	Erwinia	Erwiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	27.90474130308061	0.8510245777561606	0.0
+59814	0.0099382110203332	Pantoea dispersa	Pantoea	Erwiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	49.14445349554804	0.9949532780982211	0.0
+79967	0.0046323085883226	Erwinia pyrifoliae	Erwinia	Erwiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	22.906765969255453	0.8920857434106627	0.0
+1196095	0.0766430717097027	Gilliamella apicola	Gilliamella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	378.9999896044801	0.9999999725711877	0.9973614775725593
+1218493	0.0410857654326615	Lactobacillus kullabergensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	203.16911006451156	0.9321957327864285	0.14351851851851852
+148814	0.020020222446916	Lactobacillus kunkeei	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	99.0	1.0	1.0
+10002690	0.0175935288169868	Fructobacillus fructosus	Fructobacillus	Leuconostocaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	86.99999999999999	1.0	1.0
+1505723	0.0119359667426371	Lactobacillus bombicola	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	59.02335554234092	0.7670411077176494	0.0
+1196083	0.0311425682507583	Snodgrassella alvi	Snodgrassella	Neisseriaceae	Neisseriales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	154.0	1.0	1.0
+10003450	0.0260955118251012	Salmonella enterica	Salmonella	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	129.0423059751258	0.9920545976762983	0.4728682170542636
+2066049	0.0034295377532877	Citrobacter freundii complex sp. CFNIH2	Citrobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	16.959064190008103	0.9372198308892196	0.7647058823529411
+10003474	0.0343781597573306	Serratia marcescens	Serratia	Yersiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	169.99999999999997	1.0	1.0
+549	0.0236691687021467	Pantoea agglomerans	Pantoea	Erwiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	117.04403923211588	0.9998880244684651	0.9829059829059829
+1218508	0.019211324570273	Lactobacillus mellis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	95.0	1.0	1.0
+1218492	0.0109201213346814	Lactobacillus mellifer	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	53.99999999999999	1.0	1.0
+1267021	0.0042467159546046	Frischella perrara	Frischella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	21.00001039551987	1.0	1.0
+72826	0.0068756319514661	Bartonella_sp.	Bartonella	Rhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	PR2	34.0	1.0	1.0
+2478912	0.0036400404448938	Commensalibacter sp. AMU001	Commensalibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	18.0	1.0	1.0
+unmapped	0.0									0.0	0.0	0.0
+mapped_unclassified	0.0									19.0	0.0	0.0

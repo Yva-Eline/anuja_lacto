@@ -1,0 +1,134 @@
+---
+title: "README"
+author: "Yva HellNot"
+date: "`r Sys.Date()`"
+output: html_document
+---
+# 16S Microbiome Analysis - Anuja's lacto project
+
+Analysis of honey bee gut microbiome in response to ASx-lysate, antibiotic, and probiotic treatments.
+
+## Project Overview
+
+This project analyzes 16S rRNA sequencing data from honey bee gut samples across different treatments:
+- **NEWs**: Newly emerged bees (sterile baseline)
+- **Control**: Caged bees, no treatment
+- **Tetracycline**: Antibiotic treatment (positive control)
+- **Terra-Pro**: Probiotic treatment (positive control)
+- **ASx lysate**: Lysate treatment (experimental)
+- **Hive Reared**: Bees returned to hive after marking
+- **Comb**: Comb material provided as bacterial source
+
+## Main Research Question
+
+Does ASx-lysate treatment affect honey bee gut microbiome development compared to untreated controls?
+
+## Data
+
+- **Samples**: 44 total (7 sample types × multiple replicates × time points)
+- **Data provider**: Plasmidsaurus
+- **Sequencing platform**: Oxford Nanopore (ONT) R10.4.1 flow cells
+- **Sequencing components**: Long-read sequencing library constructed using v14 library prep chemistry
+- **Sequencing components**: 16S amplification & sequencing, included barcoded full-length amplification of 16S gene with in-house primers
+- **Taxonomic analysis**: Standard quality filter: omit reads with Qscore <10, <400bp in length, and >3000bp in length
+- **Taxonomic analysis**: Reads classified against rrnDB(v5.6) and NCBI Targeted Loci database of bacterial, archael, and eukaryotic species using emu(v3.5.1)
+- **Taxonomic abundance**: Taxonomic data compiled from all raw reads to generate metrics on relative abundance of all species that comprise at least 0.1% of the microbial community   
+- **Mean reads per sample**: ~4,824 ± 625
+
+## Analysis Pipeline
+
+The main R script (`analysis_script.R`) performs:
+
+1. **Data Import & Cleaning**
+   - Reads taxonomy tables and sequencing stats
+   - Merges with metadata
+   - Creates phyloseq objects
+
+2. **Taxonomic Composition**
+   - Relative abundance bar plots (genus & species level)
+   - Top 20 most abundant taxa
+
+3. **Beta Diversity**
+   - PCoA with Bray-Curtis dissimilarity
+   - All samples and treatments-only versions
+
+4. **Differential Abundance Testing**
+   - DESeq2 analysis (vs Control)
+   - ANCOM-BC2 analysis (vs Control)
+   - Heatmaps of significant taxa
+
+5. **Community Comparisons**
+   - UpSet plots (shared/unique taxa)
+   - Jaccard similarity distances
+   - Core (total shared) microbiome identification
+
+6. **Summary Statistics**
+   - Sequencing quality metrics
+   - Taxa counts and diversity
+   - Treatment effect summaries
+
+## Key Findings
+
+- **Antibiotic controls worked**: Tetracycline (9 sig. taxa) and Terra-Pro (4 sig. taxa) significantly altered microbiome
+- **ASx lysate had minimal effect**: Only 1 significantly different taxon
+- **Comb successfully seeded microbiome**: 50-62% of gut bacteria came from comb material
+- **Caging affects microbiome**: Hive-reared bees differ from caged controls
+
+## Requirements
+
+### R version
+- R 4.5.2 or higher
+
+### Required packages
+```r
+# CRAN packages
+install.packages(c("tidyverse", "vegan", "readxl", "pheatmap", "UpSetR", "openxlsx"))
+
+# Bioconductor packages
+BiocManager::install(c("phyloseq", "DESeq2", "ANCOMBC", "microbiome))
+```
+
+## Directory Structure
+```
+anuja_lacto/
+├── data/
+│   ├── sample_metadata.xlsx
+│   ├── [sample folders with taxonomy files]
+│   └── excluded_samples/
+├── output/           # CSV tables
+├── figures/          # PDF and PNG plots
+├── notes/            # Summary text files
+├── 16S_analysis.R
+└── README.rmd
+```
+
+## Output Files
+
+See `notes/analysis_complete_summary.txt` for complete list of outputs.
+
+### Key outputs:
+- **Figures**: 9 figure sets (PDF + PNG)
+- **Tables**: 21 CSV files with results
+- **Summaries**: 2 text files with analysis summaries
+
+## Running the Analysis
+
+1. Set your working directory to the project folder
+2. Ensure data files are in the correct locations
+3. Run the entire script: `source("16S_analysis.R")`
+4. Check `notes/analysis_complete_summary.txt` for results
+
+## Notes
+
+- Script uses count data (from `taxonomy-detailed.tsv`) for statistical testing
+- Relative abundance used for visualization
+- Both DESeq2 and ANCOM-BC2 used for robust differential abundance testing
+- Control is the reference group for all treatment comparisons
+
+## Contact
+
+[Yva Eline yeline@uidaho.edu]
+
+## Date
+
+Last updated: [22 December 2025]

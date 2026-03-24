@@ -1,0 +1,21 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+303541	0.3289531457724201	Lactobacillus apis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1627.00225899039	1.0	1.0
+1196095	0.0608572583906186	Gilliamella apicola	Gilliamella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	301.0	1.0	1.0
+1196083	0.0873433077234128	Snodgrassella alvi	Snodgrassella	Neisseriaceae	Neisseriales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	432.0	1.0	1.0
+10003450	0.2627709468062286	Salmonella enterica	Salmonella	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1299.6651029036068	0.9937457078080458	0.12557427258805512
+2013114	0.0030058243896931	Citrobacter sp. 86	Citrobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	14.866807431422318	0.9584470788974352	0.1
+2066049	0.0263442847265324	Citrobacter freundii complex sp. CFNIH2	Citrobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	130.29883225742935	0.9389100463456073	0.0
+10003473	0.1192883137889203	Serratia liquefaciens	Serratia	Yersiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	590.0	1.0	1.0
+10003443	0.034809797292265	Escherichia coli	Escherichia	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	172.16925740754277	0.9965512695478195	0.9882352941176471
+1218494	0.0337642015789749	Lactobacillus helsingborgensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	166.99774100961014	0.999986473111438	0.9940119760479041
+549	0.003841500564326	Pantoea agglomerans	Pantoea	Erwiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	19.000061791156657	1.0	1.0
+158822	0.0030327537403962	Cedecea neteri	Cedecea	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	15.0	1.0	1.0
+338565	0.0123331860511201	Erwinia tasmaniensis	Erwinia	Erwiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	60.99993820884011	0.9999989870301658	0.9836065573770492
+1218508	0.0062676910634856	Lactobacillus mellis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	31.0	1.0	1.0
+148814	0.0058633238980994	Lactobacillus kunkeei	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	29.0	1.0	1.0
+82987	0.0044480388192478	Tatumella ptyseos	Tatumella	Erwiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	22.0	1.0	1.0
+1218492	0.0020218358269308	Lactobacillus mellifer	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	10.0	1.0	1.0
+1510841	0.002426202992317	Parasaccharibacter apium	Parasaccharibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	12.0	1.0	1.0
+72826	0.0026283865750101	Bartonella_sp.	Bartonella	Rhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	PR2	13.0	1.0	1.0
+unmapped	0.0									0.0	0.0	0.0
+mapped_unclassified	0.0									20.0	0.0	0.0

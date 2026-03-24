@@ -1,0 +1,45 @@
+Sample,Sample_label,Treatment,Day,genus,Abundance
+Day  5   ASx-lysate-treated Rep  1,Day 5  ASx lysate Rep- 1,ASx-lysate-treated,5,Lactobacillus,0.505358948432761
+Day  5   ASx-lysate-treated Rep  2,Day 5  ASx lysate Rep- 2,ASx-lysate-treated,5,Lactobacillus,0.37687019813991124
+Day  5   ASx-lysate-treated Rep  3,Day 5  ASx lysate Rep- 3,ASx-lysate-treated,5,Lactobacillus,0.623636363636364
+Day  11   ASx-lysate-treated Rep  1,Day 11  ASx lysate Rep- 1,ASx-lysate-treated,11,Lactobacillus,0.6566167543504647
+Day  11   ASx-lysate-treated Rep  2,Day 11  ASx lysate Rep- 2,ASx-lysate-treated,11,Lactobacillus,0.824639740207023
+Day  11   ASx-lysate-treated Rep  3,Day 11  ASx lysate Rep- 3,ASx-lysate-treated,11,Lactobacillus,0.6816441668345762
+Day  17   ASx-lysate-treated Rep  1,Day 17  ASx lysate Rep- 1,ASx-lysate-treated,17,Tatumella,0.4222676222066946
+Day  17   ASx-lysate-treated Rep  2,Day 17  ASx lysate Rep- 2,ASx-lysate-treated,17,Lactobacillus,0.7311028500619579
+Day  17   ASx-lysate-treated Rep  3,Day 17  ASx lysate Rep- 3,ASx-lysate-treated,17,Lactobacillus,0.6611977030352744
+Day  15   Apiary-Marked Rep  1,Day 15  Hive Reared Rep- 1,Apiary-Marked,15,Lactobacillus,0.8213921208409882
+Day  15   Apiary-Marked Rep  2,Day 15  Hive Reared Rep- 2,Apiary-Marked,15,Lactobacillus,0.9053750255467001
+Day  15   Apiary-Marked Rep  3,Day 15  Hive Reared Rep- 3,Apiary-Marked,15,Lactobacillus,0.8466927673603958
+Day  5   Control Rep  1,Day 5  Control Rep- 1,Control,5,Lactobacillus,0.6085702513391021
+Day  5   Control Rep  2,Day 5  Control Rep- 2,Control,5,Gilliamella,0.7055768796568078
+Day  5   Control Rep  3,Day 5  Control Rep- 3,Control,5,Lactobacillus,0.5312563220716168
+Day  11   Control Rep  1,Day 11  Control Rep- 1,Control,11,Lactobacillus,0.4853446533252483
+Day  11   Control Rep  2,Day 11  Control Rep- 2,Control,11,Lactobacillus,0.490116982654296
+Day  11   Control Rep  3,Day 11  Control Rep- 3,Control,11,Lactobacillus,0.6745983323164529
+Day  17   Control Rep  1,Day 17  Control Rep- 1,Control,17,Lactobacillus,0.5241157556270096
+Day  17   Control Rep  3,Day 17  Control Rep- 3,Control,17,Lactobacillus,0.45428859737638794
+Day  0   For baseline data Rep  1,Day 0  NEWs Rep- 1,For baseline data,0,Gilliamella,0.7185185185185192
+Day  0   For baseline data Rep  2,Day 0  NEWs Rep- 2,For baseline data,0,Lactobacillus,0.7401495251565975
+Day  0   For baseline data Rep  3,Day 0  NEWs Rep- 3,For baseline data,0,Lactobacillus,0.829243142916065
+Day  NA   Microbiome in the comb samples Rep  1,Day NA  Comb Rep- 1,Microbiome in the comb samples,NA,Lactobacillus,0.2942131979695433
+Day  NA   Microbiome in the comb samples Rep  2,Day NA  Comb Rep- 2,Microbiome in the comb samples,NA,Lactobacillus,0.29023638232271365
+Day  NA   Microbiome in the comb samples Rep  3,Day NA  Comb Rep- 3,Microbiome in the comb samples,NA,Lactobacillus,0.3106167846309399
+Day  5   Terra-Pro-treated Rep  1,Day 5  Terra-Pro Rep- 1,Terra-Pro-treated,5,Serratia,0.4189107106701876
+Day  5   Terra-Pro-treated Rep  2,Day 5  Terra-Pro Rep- 2,Terra-Pro-treated,5,Lactobacillus,0.8066343042071196
+Day  5   Terra-Pro-treated Rep  3,Day 5  Terra-Pro Rep- 3,Terra-Pro-treated,5,Lactobacillus,0.5887096774193552
+Day  11   Terra-Pro-treated Rep  1,Day 11  Terra-Pro Rep- 1,Terra-Pro-treated,11,Lactobacillus,0.6337688442211061
+Day  11   Terra-Pro-treated Rep  2,Day 11  Terra-Pro Rep- 2,Terra-Pro-treated,11,Lactobacillus,0.6715253541367272
+Day  11   Terra-Pro-treated Rep  3,Day 11  Terra-Pro Rep- 3,Terra-Pro-treated,11,Lactobacillus,0.46510673234811184
+Day  17   Terra-Pro-treated Rep  1,Day 17  Terra-Pro Rep- 1,Terra-Pro-treated,17,Lactobacillus,0.4653767820773927
+Day  17   Terra-Pro-treated Rep  2,Day 17  Terra-Pro Rep- 2,Terra-Pro-treated,17,Lactobacillus,0.7621788283658796
+Day  17   Terra-Pro-treated Rep  3,Day 17  Terra-Pro Rep- 3,Terra-Pro-treated,17,Lactobacillus,0.86508753861998
+Day  5   Tetracycline-treated Rep  1,Day 5  Tetracycline Rep- 1,Tetracycline-treated,5,Lactobacillus,0.6955199675653762
+Day  5   Tetracycline-treated Rep  2,Day 5  Tetracycline Rep- 2,Tetracycline-treated,5,Lactobacillus,0.4873915674803309
+Day  5   Tetracycline-treated Rep  3,Day 5  Tetracycline Rep- 3,Tetracycline-treated,5,Lactobacillus,0.7690875232774678
+Day  11   Tetracycline-treated Rep  1,Day 11  Tetracycline Rep- 1,Tetracycline-treated,11,Lactobacillus,0.6446782679077298
+Day  11   Tetracycline-treated Rep  2,Day 11  Tetracycline Rep- 2,Tetracycline-treated,11,Lactobacillus,0.7984829848298487
+Day  11   Tetracycline-treated Rep  3,Day 11  Tetracycline Rep- 3,Tetracycline-treated,11,Lactobacillus,0.4415453074433658
+Day  17   Tetracycline-treated Rep  1,Day 17  Tetracycline Rep- 1,Tetracycline-treated,17,Lactobacillus,0.7931658291457288
+Day  17   Tetracycline-treated Rep  2,Day 17  Tetracycline Rep- 2,Tetracycline-treated,17,Lactobacillus,0.7672891442643137
+Day  17   Tetracycline-treated Rep  3,Day 17  Tetracycline Rep- 3,Tetracycline-treated,17,Lactobacillus,0.6025798525798526

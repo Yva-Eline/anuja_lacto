@@ -1,0 +1,16 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+303541	0.3197526202971662	Lactobacillus apis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1585.013738813053	0.999998956582016	0.9968454258675079
+1510841	0.055678838006859	Parasaccharibacter apium	Parasaccharibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	276.00000000000034	1.0	1.0
+1686310	0.1573821870003789	Bartonella apis	Bartonella	Bartonellaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	780.1435009608782	0.9996519900492867	0.9243589743589744
+72826	0.0296260841313537	Bartonella_sp.	Bartonella	Rhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	PR2	146.85649903912065	0.9971772195752698	0.08843537414965986
+1196083	0.0907807141416179	Snodgrassella alvi	Snodgrassella	Neisseriaceae	Neisseriales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	450.0	1.0	1.0
+10003474	0.0663707887835384	Serratia marcescens	Serratia	Yersiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	329.0	1.0	1.0
+1218508	0.0365140205769618	Lactobacillus mellis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	181.00000000000003	1.0	1.0
+2478912	0.0679846681460561	Commensalibacter sp. AMU001	Commensalibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	337.00000000000034	1.0	1.0
+1218494	0.0570784140602598	Lactobacillus helsingborgensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	282.9376984967082	0.991939862084885	0.22614840989399293
+1218493	0.0568990443191762	Lactobacillus kullabergensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	282.0485626901567	0.9920823960939369	0.0673758865248227
+1196095	0.0447851523098647	Gilliamella apicola	Gilliamella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	221.9999999999997	0.9999999999999983	0.9954954954954955
+1218492	0.0082711317329195	Lactobacillus mellifer	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	41.00000000008196	1.0	1.0
+148814	0.008876336493847	Lactobacillus kunkeei	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	44.0	1.0	1.0
+unmapped	0.0									0.0	0.0	0.0
+mapped_unclassified	0.0									7.0	0.0	0.0

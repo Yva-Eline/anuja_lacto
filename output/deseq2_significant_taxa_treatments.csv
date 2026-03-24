@@ -1,0 +1,15 @@
+Comparison,species,genus,family,log2FoldChange,padj,baseMean,direction
+Control_vs_Tetracycline,Lactobacillus bombicola,Lactobacillus,Lactobacillaceae,22.919029577018556,1.2210884831236286e-12,35.918444593413255,Enriched_in_Control
+Control_vs_Tetracycline,Lelliottia sp. WB101,Lelliottia,Enterobacteriaceae,24.274359326917974,1.3031463900181937e-7,21.444299188458576,Enriched_in_Control
+Control_vs_Tetracycline,Lonsdalea quercina,Lonsdalea,Pectobacteriaceae,22.43524183334863,1.0715228941278351e-6,16.447372930384777,Enriched_in_Control
+Control_vs_Tetracycline,Fructobacillus fructosus,Fructobacillus,Leuconostocaceae,7.29186736495028,1.0835329298955545e-4,27.990974469899164,Enriched_in_Control
+Control_vs_Tetracycline,Tatumella ptyseos,Tatumella,Erwiniaceae,8.070477797296636,4.846964727334244e-4,79.78107243941533,Enriched_in_Control
+Control_vs_Tetracycline,Commensalibacter_sp.,Commensalibacter,Acetobacteraceae,-7.240463552198344,0.008321682575489906,17.60053143499617,Enriched_in_Treatment
+Control_vs_Tetracycline,Lactobacillus kullabergensis,Lactobacillus,Lactobacillaceae,-2.0377179662612424,0.01289689720522895,202.83334888800817,Enriched_in_Treatment
+Control_vs_Tetracycline,Lactobacillus apis,Lactobacillus,Lactobacillaceae,-1.1301922453725586,0.01289689720522895,1568.0698767182164,Enriched_in_Treatment
+Control_vs_Tetracycline,Pantoea agglomerans,Pantoea,Erwiniaceae,6.244052208139589,0.01803307792469677,13.06532282205843,Enriched_in_Control
+Control_vs_Terra-Pro,Lelliottia sp. WB101,Lelliottia,Enterobacteriaceae,24.262062824955734,3.1199642776911306e-7,21.444299188458576,Enriched_in_Control
+Control_vs_Terra-Pro,Lonsdalea quercina,Lonsdalea,Pectobacteriaceae,22.445497692553154,1.865655027707325e-6,16.447372930384777,Enriched_in_Control
+Control_vs_Terra-Pro,Tatumella ptyseos,Tatumella,Erwiniaceae,8.019485490367169,0.0010556846397144926,79.78107243941533,Enriched_in_Control
+Control_vs_Terra-Pro,Commensalibacter_sp.,Commensalibacter,Acetobacteraceae,-8.089872016275628,0.003771798493472241,17.60053143499617,Enriched_in_Treatment
+Control_vs_ASx_lysate,Lelliottia sp. WB101,Lelliottia,Enterobacteriaceae,24.74016583008623,1.5780074185415968e-7,21.444299188458576,Enriched_in_Control

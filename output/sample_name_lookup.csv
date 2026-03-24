@@ -1,0 +1,45 @@
+OriginalSampleName,TubeID,NewSampleName,Day,Treatment,Rep
+L2YL27_5_1,1,Day  0   For baseline data Rep  1,0,For baseline data,1
+L2YL27_6_2,2,Day  0   For baseline data Rep  2,0,For baseline data,2
+L2YL27_7_3,3,Day  0   For baseline data Rep  3,0,For baseline data,3
+L2YL27_8_4,4,Day  5   Control Rep  1,5,Control,1
+45VLC3_1_rerun_1_5,5,Day  5   Control Rep  2,5,Control,2
+XQG5WG_2_Sample_ID_6,6,Day  5   Control Rep  3,5,Control,3
+XQG5WG_3_Sample_ID_7,7,Day  5   Tetracycline-treated Rep  1,5,Tetracycline-treated,1
+XQG5WG_4_Sample_ID_8,8,Day  5   Tetracycline-treated Rep  2,5,Tetracycline-treated,2
+L2YL27_1_9,9,Day  5   Tetracycline-treated Rep  3,5,Tetracycline-treated,3
+XQG5WG_5_Sample_ID_10,10,Day  5   Terra-Pro-treated Rep  1,5,Terra-Pro-treated,1
+XQG5WG_6_Sample_ID_11,11,Day  5   Terra-Pro-treated Rep  2,5,Terra-Pro-treated,2
+XQG5WG_7_Sample_ID_12,12,Day  5   Terra-Pro-treated Rep  3,5,Terra-Pro-treated,3
+XQG5WG_8_Sample_ID_13,13,Day  5   ASx-lysate-treated Rep  1,5,ASx-lysate-treated,1
+XQG5WG_9_Sample_ID_14,14,Day  5   ASx-lysate-treated Rep  2,5,ASx-lysate-treated,2
+XQG5WG_10_Sample_ID_15,15,Day  5   ASx-lysate-treated Rep  3,5,ASx-lysate-treated,3
+XQG5WG_11_Sample_ID_16,16,Day  11   Control Rep  1,11,Control,1
+XQG5WG_12_Sample_ID_17,17,Day  11   Control Rep  2,11,Control,2
+XQG5WG_13_Sample_ID_18,18,Day  11   Control Rep  3,11,Control,3
+XQG5WG_14_Sample_ID_19,19,Day  11   Tetracycline-treated Rep  1,11,Tetracycline-treated,1
+L2YL27_2_20,20,Day  11   Tetracycline-treated Rep  2,11,Tetracycline-treated,2
+XQG5WG_15_Sample_ID_21,21,Day  11   Tetracycline-treated Rep  3,11,Tetracycline-treated,3
+XQG5WG_16_Sample_ID_22,22,Day  11   Terra-Pro-treated Rep  1,11,Terra-Pro-treated,1
+L2YL27_3_23,23,Day  11   Terra-Pro-treated Rep  2,11,Terra-Pro-treated,2
+L2YL27_4_24,24,Day  11   Terra-Pro-treated Rep  3,11,Terra-Pro-treated,3
+XQG5WG_17_Sample_ID_25,25,Day  11   ASx-lysate-treated Rep  1,11,ASx-lysate-treated,1
+XQG5WG_18_Sample_ID_26,26,Day  11   ASx-lysate-treated Rep  2,11,ASx-lysate-treated,2
+XQG5WG_19_Sample_ID_27,27,Day  11   ASx-lysate-treated Rep  3,11,ASx-lysate-treated,3
+XQG5WG_20_Sample_ID_28,28,Day  17   Control Rep  1,17,Control,1
+XQG5WG_21_Sample_ID_29,29,Day  17   Control Rep  3,17,Control,3
+XQG5WG_22_Sample_ID_30,30,Day  17   Tetracycline-treated Rep  1,17,Tetracycline-treated,1
+XQG5WG_23_Sample_ID_31,31,Day  17   Tetracycline-treated Rep  2,17,Tetracycline-treated,2
+XQG5WG_24_Sample_ID_32,32,Day  17   Tetracycline-treated Rep  3,17,Tetracycline-treated,3
+XQG5WG_25_Sample_ID_33,33,Day  17   Terra-Pro-treated Rep  1,17,Terra-Pro-treated,1
+XQG5WG_26_Sample_ID_34,34,Day  17   Terra-Pro-treated Rep  2,17,Terra-Pro-treated,2
+XQG5WG_27_Sample_ID_35,35,Day  17   Terra-Pro-treated Rep  3,17,Terra-Pro-treated,3
+XQG5WG_28_Sample_ID_36,36,Day  17   ASx-lysate-treated Rep  1,17,ASx-lysate-treated,1
+XQG5WG_29_Sample_ID_37,37,Day  17   ASx-lysate-treated Rep  2,17,ASx-lysate-treated,2
+XQG5WG_30_Sample_ID_38,38,Day  17   ASx-lysate-treated Rep  3,17,ASx-lysate-treated,3
+XQG5WG_31_Sample_ID_39,39,Day  15   Apiary-Marked Rep  1,15,Apiary-Marked,1
+XQG5WG_32_Sample_ID_40,40,Day  15   Apiary-Marked Rep  2,15,Apiary-Marked,2
+XQG5WG_33_Sample_ID_41,41,Day  15   Apiary-Marked Rep  3,15,Apiary-Marked,3
+XQG5WG_34_Sample_ID_42,42,Day  NA   Microbiome in the comb samples Rep  1,NA,Microbiome in the comb samples,1
+XQG5WG_35_Sample_ID_43,43,Day  NA   Microbiome in the comb samples Rep  2,NA,Microbiome in the comb samples,2
+XQG5WG_36_Sample_ID_44,44,Day  NA   Microbiome in the comb samples Rep  3,NA,Microbiome in the comb samples,3

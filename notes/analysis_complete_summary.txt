@@ -1,0 +1,156 @@
+16S Microbiome Analysis - Complete Summary 
+Date: 2025-12-22
+DATASET OVERVIEW
+----------------
+Total samples: 44
+Total unique taxa: 57
+Mean reads per sample: 4824 ± 625
+Mean read length: 1443.6 bp
+Mean quality score: 20.79
+
+Sample Types
+------------
+NEWs: Newly emerged bees (sterile baseline)
+Control: Caged, no treatment
+Tetracycline: Caged, antibiotic treatment
+Terra-Pro: Caged, probiotic treatment
+ASx lysate: Caged, phage lysate treatment
+Hive Reared: Marked and returned to hive
+Comb: Comb material provided in cages
+
+Figures Generated
+Taxonomic Composition
+---------------------
+1. taxonomy_by_genus.pdf/.png
+   - Top 20 genera, relative abundance by treatment and day
+
+2. taxonomy_by_species.pdf/.png
+   - Top 20 species, relative abundance by treatment and day
+   - Includes Bombilactobacillus reclassification
+
+Beta Diversity (PCoA)
+---------------------
+3. pcoa_bray_curtis.pdf/.png
+   - All samples, Bray-Curtis dissimilarity
+   - PC1: 28.9% variance
+   - PC2: 21.6% variance
+   - Total captured: 50.6%
+
+4. pcoa_bray_curtis_labeled.pdf/.png
+   - Same as #3 with sample labels (Day-Rep)
+
+Statistical Analysis
+Taxonomic Composition
+Lactobacillus dominance: 40/44 samples (90.9%)
+Mean Lactobacillus species per sample: 5.9 ± 0.9
+Gilliamella: Second most abundant genus
+
+DESeq2 Results (vs Control)
+Tetracycline vs Control: 9 significant taxa
+Terra-Pro vs Control: 4 significant taxa
+ASx lysate vs Control: 1 significant taxa
+Significant taxa abundance: All are rare (not in top 20)
+
+ANCOM-BC2 Results (vs Control)
+More conservative compositional method
+Tetracycline vs Control: 0 significant taxa
+Terra-Pro vs Control: 0 significant taxa
+ASx lysate vs Control: 0 significant taxa
+Borderline (q < 0.1): 1 taxa
+
+Community Similarity (Jaccard Distance)
+Most similar:
+  - Terra-Pro & Tetracycline: 0.269 (both antimicrobials)
+  - Control & ASx lysate: 0.372
+
+Most different:
+  - NEWs: 0.65-0.72 from all others (sterile baseline)
+  - Hive Reared: 0.43-0.69 from caged (environment matters)
+
+Comb as Bacterial Source
+Caged bees acquired from comb:
+  - Control: 58.1%
+  - Tetracycline: 61.9%
+  - Terra-Pro: 62.5%
+  - ASx lysate: 51.3%
+
+Hive-reared vs Caged:
+  - Hive-Reared: 91.7% overlap with comb
+  - Control: 58.1% overlap with comb
+  - Difference: 33.6 percentage points
+  - Despite high overlap, abundances differ significantly
+
+Core Bee Gut Bacteria
+Analyzed genera: Lactobacillus, Bombilactobacillus, Gilliamella,
+                 Snodgrassella, Bifidobacterium, Frischella, Bartonella
+See: core_bacteria_presence_by_treatment.csv for details
+
+KEY FINDINGS
+1. Antibiotic Controls Worked:
+   - Tetracycline: 9 significantly different taxa
+   - Terra-Pro: 4 significantly different taxa
+   - Cluster together in PCoA (similar antimicrobial effect)
+
+2. ASx Lysate Had Comparable Effect:
+   - ASx lysate: 1 significantly different taxon (DESeq2)
+   - 0 significant taxa (ANCOM-BC2)
+   - Microbiome composition similar to untreated controls
+
+3. Caging Affects Microbiome:
+   - Hive-reared bees cluster separately from caged controls
+   - Environment influences community structure beyond colonization
+
+4. Comb Successfully Seeded Microbiome:
+   - 50-62% of caged bee gut bacteria came from comb
+   - Validates experimental design for controlled establishment
+
+5. Hive Environment Matters:
+   - Hive-reared: 91.7% taxa overlap with comb
+   - Caged: 58.1% taxa overlap with comb
+   - Same taxa, different abundances = environment shapes development
+
+Output Files
+Figures (figures/)
+------------------
+All figures saved as both PDF and PNG
+- Taxonomic composition (genus and species)
+- PCoA plots (labeled and unlabeled)
+
+Data Tables (output/)
+Sample Information:
+  - sample_name_lookup.csv
+  - metadata_clean.csv
+
+Sequencing Statistics:
+  - sequencing_stats_all_samples.csv
+  - sequencing_stats_by_treatment.csv
+
+Taxonomic Composition:
+  - dominant_genus_per_sample.csv
+  - lactobacillus_diversity_per_sample.csv
+  - core_bacteria_presence_by_treatment.csv
+  - core_bacteria_hive_vs_cage.csv
+
+Differential Abundance:
+  - deseq2_significant_taxa.csv
+  - ancombc2_significant_taxa.csv
+  - ancombc2_borderline_taxa.csv
+  - deseq2_vs_ancombc2_comparison.csv
+  - methods_comparison_summary.csv
+  - significant_taxa_abundance_rank.csv
+  - deseq2_comb_comparison.csv
+  - ancombc2_comb_comparison.csv
+
+Community Analysis:
+  - jaccard_distances_sample_types.csv
+  - taxa_summary_statistics.csv
+  - hive_vs_cage_taxa_overlap.csv
+
+Summary Notes (notes/)
+  - data_import_summary.txt
+  - analysis_complete_summary.txt (this file)
+
+R Objects
+  - phyloseq_object.rds (relative abundance)
+
+

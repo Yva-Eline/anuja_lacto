@@ -1,0 +1,20 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+2500132	0.0216321122351065	Enterobacter sp. N18-03635	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	106.9058986658968	0.9804553060088148	0.8333333333333334
+61645	0.1606827400497827	Enterobacter asburiae	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	794.0941013260264	0.8871249532537134	0.06927374301675977
+1510841	0.0101173613921489	Parasaccharibacter apium	Parasaccharibacter	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	50.0	1.0	1.0
+1196083	0.0206394172399838	Snodgrassella alvi	Snodgrassella	Neisseriaceae	Neisseriales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	102.0	1.0	1.0
+1196095	0.0505868069607446	Gilliamella apicola	Gilliamella	Orbaceae	Orbales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	250.0	1.0	1.0
+1505723	0.1067915476805467	Lactobacillus bombicola	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	527.763828637262	0.7969844293591885	0.0015873015873015873
+303541	0.3450847300276193	Lactobacillus apis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1705.4087357964945	0.9816688817488962	0.9111801242236025
+1218494	0.0583265300005716	Lactobacillus helsingborgensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	288.2497112628249	0.983886541894399	0.43636363636363634
+1218492	0.0267098340752731	Lactobacillus mellifer	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	132.0	1.0	1.0
+72826	0.0064751112909753	Bartonella_sp.	Bartonella	Rhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	PR2	32.0	1.0	1.0
+148814	0.0192229866450829	Lactobacillus kunkeei	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	95.0	1.0	1.0
+1218493	0.0624398470868917	Lactobacillus kullabergensis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	308.5777243034192	0.9718926652254767	0.09523809523809523
+1218508	0.0380412788344799	Lactobacillus mellis	Lactobacillus	Lactobacillaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	188.0	1.0	1.0
+1544694	0.0234722784297855	Rosenbergiella epipactidis	Rosenbergiella	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	116.0	1.0	1.0
+82987	0.0137596114949581	Tatumella ptyseos	Tatumella	Erwiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	68.00000000808325	1.0	0.9852941176470589
+549	0.0230675839740995	Pantoea agglomerans	Pantoea	Erwiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	114.0	1.0	1.0
+10002690	0.0129502225819506	Fructobacillus fructosus	Fructobacillus	Leuconostocaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	64.0	1.0	1.0
+unmapped	0.0									0.0	0.0	0.0
+mapped_unclassified	0.0									32.0	0.0	0.0
